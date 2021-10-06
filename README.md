@@ -1,16 +1,15 @@
 # swe_hdb_app latest 22-03-21
 
-A new Flutter application.
+A new Flutter application
 
-## Getting Started
+HDBuddy is an Android mobile application that provides potential HDB buyers with a simple and intuitive interface to filter through the large number of HDB Listings using different types of filters that can be adjusted manually by the user to fit the user's needs. Additionally, HDBuddy has a Loan Amortisation Visualisation function for the user to easily visualise how his/her liabilities are like subsequent to purchasing the flat.
 
-This project is a starting point for a Flutter application.
+**Product Functions**
+- HDBuddy will provide individuals with the function of assessing list of HDB Listings. 
+- HDBuddy will allow users to filter their search of the HDB Listings.
+- HDBuddy will allow users to view the geo-location of the HDB Listings. 
+- HDBuddy will allow users to bookmark specific HDB Listings.
+- HDBuddy will allow users to view details of a specific HDB Listings, including its address, neighbourhood, flat type, size, remaining lease period, storey range, license year and the location of the listing in the midst of the amenities near it on a map. 
+- HDBuddy will allow for the user to calculate and visualise their loan amortization schedule for their HDB resale Listing. 
+- HDBuddy will allow for the user to share either a specific HDB Listing or loan amortization schedule on external sharing platforms. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
