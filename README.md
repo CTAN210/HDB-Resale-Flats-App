@@ -15,9 +15,11 @@ HDBuddy is an Android mobile application that provides potential HDB buyers with
 
 ![image](https://user-images.githubusercontent.com/57227843/136149359-583ba739-41af-4270-bc59-1ba342aec61e.png)
 
-![image](https://user-images.githubusercontent.com/57227843/136149387-2def0862-6b9f-4532-9f24-d594107ed897.png)
+![image](https://user-images.githubusercontent.com/57227843/143588305-c093df97-47a5-4dfe-b0e6-ec662c9c9f13.png)
 
-![image](https://user-images.githubusercontent.com/57227843/136149373-72d23644-0175-4e2f-ab81-24ce3b1d8739.png)
+![image](https://user-images.githubusercontent.com/57227843/143588319-d4282d06-5cfe-46f4-90d0-d95973b7db93.png)
 
-![image](https://user-images.githubusercontent.com/57227843/136149395-711d02a7-347f-4eff-8b35-a20ecb1e475d.png)
+![image](https://user-images.githubusercontent.com/57227843/143588342-7b0d7901-27d6-48a1-9958-aacf40938943.png)
+
+
 
